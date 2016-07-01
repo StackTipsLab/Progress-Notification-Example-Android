@@ -4,4 +4,4 @@ In this example we’ll show you how to display progress notification in android
 
 
 Read more
-http://javatechig.com/android/displaying-progress-notification-in-android-example
+http://stacktips.com/tutorials/android/progress-notification-in-android-example
